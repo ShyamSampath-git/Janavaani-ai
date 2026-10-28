@@ -173,6 +173,10 @@ Together, these APIs enable a voice-first experience for interacting with public
 
 ## System Architecture
 
+## System Architecture
+
+![JANAVAANI AI System Architecture](frontend/src/assets/janavaani-architecture.png)
+
 ```text
                         JANAVAANI AI
 
